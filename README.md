@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a new web game idea set to release in a month or two
     - and an iOS app called MusicSketch
-- 🌱 I’m currently learning Computer Science at Purdue University
+- 🌱 I’m currently studying Computer Science at Purdue University
 - 📫 How to reach me: dimitrm@purdue.edu
 
 <!--
